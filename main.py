@@ -14,7 +14,7 @@ class PendantDomain:
 
 
 # Using the modul bs4 extract the information we require.
-def expiry_date(domain_name = 'google.com'):
+def expiry_date(domain_name):
 
     count = 0
 
